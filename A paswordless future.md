@@ -8,3 +8,4 @@
 + https://www.microsoft.com/security/blog/2021/09/15/the-passwordless-future-is-here-for-your-microsoft-account/
 + https://techcommunity.microsoft.com/t5/azure-active-directory-identity/passwordless-authentication-is-now-generally-available/ba-p/1994700
 + https://www.microsoft.com/security/blog/2020/12/17/a-breakthrough-year-for-passwordless-technology/
++ https://news.microsoft.com/apac/2020/06/02/going-passwordless-for-smarter-and-better-protection/
