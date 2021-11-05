@@ -11,3 +11,4 @@
 + https://news.microsoft.com/apac/2020/06/02/going-passwordless-for-smarter-and-better-protection/
 # FIDO2:
 + https://resources.yubico.com/53ZDUYE6/as/xf6zfccq7vj4x3h2fnjj69p/Microsoft_Ignite_-_Strong_passwordless_authentication_at_scale_-_Yubico.pdf?utm_source=microsoft-ignite&utm_medium=pd%3Avirtualevent&utm_campaign=microsoft-ignite&utm_content
++ https://www.youtube.com/watch?v=D9U-5y8dIw0
